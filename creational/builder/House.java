@@ -42,11 +42,6 @@ public class House {
             return this;
         }
 
-        /**
-         * Returns the final built com.digrazia.behavioral.visitor.com.digrazia.behavioral.iterator.Product.
-         *
-         * @return com.digrazia.behavioral.visitor.com.digrazia.behavioral.iterator.Product instance
-         */
         public House build() {
             return house;
         }
